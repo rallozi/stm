@@ -1,0 +1,111 @@
+Region Description,Number,Default Mode Network
+Left Thalamus,1,
+Right Superior Temporal Gyrus; posterior division,2,Yes
+Left Superior Temporal Gyrus; posterior division,3,Yes
+Right Frontal Pole,4,
+Left Frontal Pole,5,
+Left Caudate,6,
+Right Middle Temporal Gyrus; anterior division,7,Yes
+Left Middle Temporal Gyrus; anterior division,8,Yes
+Left Putamen,9,
+Right Middle Temporal Gyrus; posterior division,10,Yes
+Left Middle Temporal Gyrus; posterior division,11,Yes
+Left Pallidum,12,
+Right Middle Temporal Gyrus; temporooccipital part,13,Yes
+Left Middle Temporal Gyrus; temporooccipital part,14,Yes
+Right Inferior Temporal Gyrus; anterior division,15,
+Left Inferior Temporal Gyrus; anterior division,16,
+Right Inferior Temporal Gyrus; posterior division,17,
+Left Inferior Temporal Gyrus; posterior division,18,
+Right Inferior Temporal Gyrus; temporooccipital part,19,
+Left Inferior Temporal Gyrus; temporooccipital part,20,
+Left Hippocampus,21,Yes
+Right Postcentral Gyrus,22,
+Left Postcentral Gyrus,23,
+Left Amygdala,24,
+Right Superior Parietal Lobule,25,
+Left Superior Parietal Lobule,26,
+Right Supramarginal Gyrus; anterior division,27,
+Left Supramarginal Gyrus; anterior division,28,
+Right Supramarginal Gyrus; posterior division,29,Yes
+Left Supramarginal Gyrus; posterior division,30,Yes
+Right Insular Cortex,31,
+Left Insular Cortex,32,
+Right Angular Gyrus,33,Yes
+Left Angular Gyrus,34,Yes
+Right Lateral Occipital Cortex; superior division,35,
+Left Lateral Occipital Cortex; superior division,36,
+Right Lateral Occipital Cortex; inferior division,37,
+Left Lateral Occipital Cortex; inferior division,38,
+Right Intracalcarine Cortex,39,
+Left Intracalcarine Cortex,40,
+Right Frontal Medial Cortex,41,Yes
+Left Frontal Medial Cortex,42,Yes
+Left Accumbens,43,
+Right Juxtapositional Lobule Cortex,44,
+Left Juxtapositional Lobule Cortex,45,
+Right Subcallosal Cortex,46,
+Left Subcallosal Cortex,47,
+Right Paracingulate Gyrus,48,
+Left Paracingulate Gyrus,49,
+Right Cingulate Gyrus; anterior division,50,Yes
+Left Cingulate Gyrus; anterior division,51,Yes
+Right Cingulate Gyrus; posterior division,52,Yes
+Left Cingulate Gyrus; posterior division,53,Yes
+Right Superior Frontal Gyrus,54,Yes
+Left Superior Frontal Gyrus,55,Yes
+Right Precuneous Cortex,56,Yes
+Left Precuneous Cortex,57,Yes
+Right Cuneal Cortex,58,
+Left Cuneal Cortex,59,
+Right Frontal Orbital Cortex,60,
+Left Frontal Orbital Cortex,61,
+Right Parahippocampal Gyrus; anterior division,62,Yes
+Left Parahippocampal Gyrus; anterior division,63,Yes
+Right Parahippocampal Gyrus; posterior division,64,Yes
+Left Parahippocampal Gyrus; posterior division,65,Yes
+Right Lingual Gyrus,66,
+Left Lingual Gyrus,67,
+Right Temporal Fusiform Cortex; anterior division,68,
+Left Temporal Fusiform Cortex; anterior division,69,
+Right Temporal Fusiform Cortex; posterior division,70,
+Left Temporal Fusiform Cortex; posterior division,71,
+Right Temporal Occipital Fusiform Cortex,72,
+Left Temporal Occipital Fusiform Cortex,73,
+Right Occipital Fusiform Gyrus,74,
+Left Occipital Fusiform Gyrus,75,
+Right Middle Frontal Gyrus,76,
+Left Middle Frontal Gyrus,77,
+Right Frontal Operculum Cortex,78,
+Left Frontal Operculum Cortex,79,
+Right Central Opercular Cortex,80,
+Left Central Opercular Cortex,81,
+Right Parietal Operculum Cortex,82,
+Left Parietal Operculum Cortex,83,
+Right Planum Polare,84,
+Left Planum Polare,85,
+Right Heschl's Gyrus (includes H1 and H2),86,
+Left Heschl's Gyrus (includes H1 and H2),87,
+Right Planum Temporale,88,
+Left Planum Temporale,89,
+Right Supracalcarine Cortex,90,
+Left Supracalcarine Cortex,91,
+Right Occipital Pole,92,
+Left Occipital Pole,93,
+Right Thalamus,94,
+Right Caudate,95,
+Right Inferior Frontal Gyrus; pars triangularis,96,Yes
+Left Inferior Frontal Gyrus; pars triangularis,97,Yes
+Right Putamen,98,
+Right Pallidum,99,
+Right Hippocampus,100,Yes
+Right Amygdala,101,
+Right Accumbens,102,
+Right Inferior Frontal Gyrus; pars opercularis,103,Yes
+Left Inferior Frontal Gyrus; pars opercularis,104,Yes
+Right Precentral Gyrus,105,
+Left Precentral Gyrus,106,
+Right Temporal Pole,107,
+Left Temporal Pole,108,
+Right Superior Temporal Gyrus; anterior division,109,
+Left Superior Temporal Gyrus; anterior division,110,
